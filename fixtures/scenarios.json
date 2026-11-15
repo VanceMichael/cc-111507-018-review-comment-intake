@@ -5,7 +5,8 @@
     "version": "source-v1",
     "resources": [
       "review.docx",
-      "orphan.docx"
+      "orphan.docx",
+      "replies.docx"
     ],
     "behavior": "standard",
     "description": "采购评审资料：standard"
@@ -16,7 +17,8 @@
     "version": "source-v1",
     "resources": [
       "review.docx",
-      "orphan.docx"
+      "orphan.docx",
+      "replies.docx"
     ],
     "behavior": "original-view",
     "description": "采购评审资料：original-view"
@@ -27,18 +29,20 @@
     "version": "source-v1",
     "resources": [
       "review.docx",
-      "orphan.docx"
+      "orphan.docx",
+      "replies.docx"
     ],
     "behavior": "missing-anchor",
     "description": "采购评审资料：missing-anchor"
   },
   {
     "id": "reply-chain",
-    "entry": "review.docx",
+    "entry": "replies.docx",
     "version": "source-v1",
     "resources": [
       "review.docx",
-      "orphan.docx"
+      "orphan.docx",
+      "replies.docx"
     ],
     "behavior": "reply-chain",
     "description": "采购评审资料：reply-chain"
