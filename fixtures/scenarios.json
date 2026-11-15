@@ -1,0 +1,46 @@
+[
+  {
+    "id": "standard",
+    "entry": "review.docx",
+    "version": "source-v1",
+    "resources": [
+      "review.docx",
+      "orphan.docx"
+    ],
+    "behavior": "standard",
+    "description": "采购评审资料：standard"
+  },
+  {
+    "id": "original-view",
+    "entry": "review.docx",
+    "version": "source-v1",
+    "resources": [
+      "review.docx",
+      "orphan.docx"
+    ],
+    "behavior": "original-view",
+    "description": "采购评审资料：original-view"
+  },
+  {
+    "id": "missing-anchor",
+    "entry": "orphan.docx",
+    "version": "source-v1",
+    "resources": [
+      "review.docx",
+      "orphan.docx"
+    ],
+    "behavior": "missing-anchor",
+    "description": "采购评审资料：missing-anchor"
+  },
+  {
+    "id": "reply-chain",
+    "entry": "review.docx",
+    "version": "source-v1",
+    "resources": [
+      "review.docx",
+      "orphan.docx"
+    ],
+    "behavior": "reply-chain",
+    "description": "采购评审资料：reply-chain"
+  }
+]
