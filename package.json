@@ -9,7 +9,7 @@
   "scripts": {
     "start": "node src/server.mjs",
     "test": "node --test",
-    "build": "node --check src/server.mjs && node --check src/receiver.mjs && node --check src/gateway.mjs && node --check src/source-metadata.mjs",
+    "build": "node --check src/server.mjs && node --check src/receiver.mjs && node --check src/structured.mjs && node --check src/docx-review.mjs && node --check src/gateway.mjs && node --check src/source-metadata.mjs",
     "demo": "node tools/demo.mjs"
   },
   "dependencies": {

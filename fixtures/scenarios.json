@@ -46,5 +46,15 @@
     ],
     "behavior": "reply-chain",
     "description": "采购评审资料：reply-chain"
+  },
+  {
+    "id": "corrupt-entry",
+    "entry": "corrupt.docx",
+    "version": "source-v1",
+    "resources": [
+      "corrupt.docx"
+    ],
+    "behavior": "corrupt-entry",
+    "description": "采购评审资料：corrupt-entry"
   }
 ]
